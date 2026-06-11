@@ -1,0 +1,24 @@
+//
+//  ContentView.swift
+//  WorldCup2026Menubar
+//
+//  Created by Gilbert Pellegrom on 11/06/2026.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
