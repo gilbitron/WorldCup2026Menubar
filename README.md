@@ -2,6 +2,10 @@
 
 A simple macOS menu bar app for following the [2026 FIFA World Cup](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026).
 
+<p align="center">
+  <img width="1414" height="1088" alt="Image" src="https://github.com/user-attachments/assets/89379e7c-f6fc-4756-99d1-49caeec34c93" />
+</p>
+
 The app shows the current live match, or the next upcoming match, directly in the macOS menu bar. Opening the menu bar item shows matches from the last 24 hours and the next 24 hours, with a fallback to upcoming matches when nothing is nearby.
 
 Scores and match metadata are loaded from ESPN's public soccer scoreboard API.
@@ -39,4 +43,3 @@ Open the menu bar item, then click the gear icon to configure:
 - Goal notifications
 
 macOS may ask for notification permission the first time notifications are enabled.
-
