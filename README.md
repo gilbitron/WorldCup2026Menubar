@@ -25,6 +25,15 @@ Scores and match metadata are loaded from ESPN's public soccer scoreboard API.
 - macOS Tahoe
 - Network access to ESPN's public scoreboard API
 
+## Download
+
+Pre-built releases are available on GitHub:
+
+1. Open the [Releases](https://github.com/gilbitron/WorldCup2026Menubar/releases) page.
+2. Download the latest `World Cup 2026 Menubar` `.dmg` file.
+3. Open the DMG and drag **World Cup 2026 Menubar** into **Applications**.
+4. Launch the app from Applications.
+
 ## Run Locally
 
 1. Open `WorldCup2026Menubar.xcodeproj` in Xcode.
